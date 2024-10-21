@@ -24,7 +24,7 @@ def main(x) :
 	if b >= r :  
 		return ("not anti-prime")
 	else :
-		return ("anti prime")
+		return ("anti-prime")
 
 	## THE LAST LINES OF YOUR CODE SHOULD EITHER
 	## RETURN THE VALUE "anti-prime" or "not anti-prime"
